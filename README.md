@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Chaturvedi
 - 👀 I’m interested in creating webpages and giving life to my designs.
-- 🌱 I’m currently learning technologies like TypeScript, VueJS, AngularJS.
+- 🌱 I’m currently learning technologies like VueJS.
 - 💞️ I’m looking for software/frontend developer positions.
 - 📫 You can reach me through chaturvedidivya10@gmail.com
 
